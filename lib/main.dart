@@ -40,9 +40,9 @@ class RandomWordsSate extends State<RandomWords> {
     print(error);
     print(url);
     return Icon(
-        Icons.error,
-        color: Color.fromARGB(255, 200, 0, 0),
-        size: 50.0,
+      Icons.error,
+      color: Color.fromARGB(255, 200, 0, 0),
+      size: 50.0,
     );
   }
 
